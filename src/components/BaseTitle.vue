@@ -18,7 +18,7 @@
   }
 
   & .title {
-    @apply text-6xl font-thin tracking-widest text-slate-700 uppercase;
+    @apply text-6xl font-serif  font-bold tracking-widest text-rose-500 uppercase;
   }
 }
 
