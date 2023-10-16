@@ -46,7 +46,7 @@ onMounted(async () => {
     @apply text-center flex h-32 items-center justify-center rounded-lg border-4 border-yellow-100 py-4 font-bold uppercase transition-colors duration-300;
 
       &:hover {
-        @apply cursor-pointer border-cyan-200 bg-blue-800 text-white;
+        @apply cursor-pointer bg-gradient-to-b from-sky-400 to-sky-200;
       }
   }
 
